@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://vrchatlegends.com/images/main/branding/vrchat_legends_logo.webp" alt="VRChat Legends Logo" width="400">
+  <img src="https://8upload.com/image/77a219a04f47ba76/vrcl_banner_big.png" alt="VRChat Legends Banner" width="100%">
 </p>
 
 # VRChat Legends
@@ -26,15 +26,19 @@
 - **VRChat Communities** – tracking and showcasing groups, instances, and live community events.
 - **Web Development (JavaScript)** – the primary tech stack powering our backend and custom community tools.
 - **Data Preservation** – safeguarding the lore, worlds, and moments that make the VRChat metaverse unique.
-- **Open Collaboration** – giving the community a platform to tell their stories and document their history.
+
+<p align="center">
+  <img src="https://8upload.com/image/23f9fbf4a6cb5505/vrcl_banner_small.png" alt="VRChat Legends Small Banner" width="100%">
+</p>
+
+---
 
 ### Links
 - **[VRChat Legends](https://vrchatlegends.com)** - Main Website
-- **[Discord Community](https://vrchatlegends.com/)** - Join the conversation, open a ticket, and submit new lore!
-- **[Patreon](https://vrchatlegends.com/)** - Support the ongoing development and hosting of the archives.
+- **[Discord Community](https://vrchatlegends.com/)** - Join the conversation and submit new lore!
+- **[Patreon](https://vrchatlegends.com/)** - Support the ongoing development of the archives.
 
 ### Partners
-- **[Silent Ember (SELabs)](https://labs.silent-ember.com/)** - Open-source starter kits, templates, and guides for Discord bots, web, and infrastructure. 
-- **[Paranormal Scene Investigators (P.S.I.)](https://vrchatlegends.com/)** - A roleplay group focused on delving into the eldritch, paranormal, and unknown of the VR world.
-- **[VRC Kmart](https://vrchatlegends.com/)** - A community dedicated to preserving and recreating the almost-departed American retail store Kmart in VRChat.
-- **[Shopow's Corner](https://vrchatlegends.com/)** - Updates, world releases, memes, and positive vibes across VRChat!
+- **[Paranormal Scene Investigators (P.S.I.)](https://vrchatlegends.com/)** - Exploring the eldritch and unknown of the VR world.
+- **[VRC Kmart](https://vrchatlegends.com/)** - Preserving retail history through community roleplay.
+- **[Shopow's Corner](https://vrchatlegends.com/)** - World releases and positive vibes across the metaverse.
