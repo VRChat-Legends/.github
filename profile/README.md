@@ -12,9 +12,8 @@
 
 # VRChat Legends
 
-> A **community-driven resource** documenting the lore, players, groups, worlds, and events of VRChat.  
-> Dedicated to **celebrating the creativity and stories** within the VRC community.  
-> Everything lives on GitHub — open-source, collaborative, and built for the players.
+> A **community driven resource** documenting the lore, players, groups, worlds, and events of VRChat
+> Dedicated to **celebrating the creativity and stories** within the VRC community
 
 </div>
 
@@ -23,21 +22,19 @@
 ## <div align="center">The Living Archive</div>
 <div align="center">
 
-VRChat is more than just a game—it's a vast digital frontier of shifting cultures and digital history. We are here to ensure that the stories of the people and places that define this space aren't lost to time.
+VRChat is more than just a game—it's a vast digital frontier of shifting cultures and digital history We are here to ensure that the stories of the people and places that define this space aren't lost to time
 
-* **Lore & History** – From the earliest world builders to the rise of massive community events, we document the evolution of the platform.
-* **Player & Group Profiles** – Highlighting the legends, creators, and groups that form the backbone of the social ecosystem.
-* **Developer Tools** – Building the technical bridge between VRChat's API and the web to create better group management and discovery experiences.
-* **Event Tracking** – Preserving the memory of festivals, DJ sets, and roleplay campaigns that exist only for a moment in time.
+* **Lore and History** : From the earliest world builders to the rise of massive community events, we document the evolution of the platform
+* **Player and Group Profiles** : Highlighting the legends, creators, and groups that form the backbone of the social ecosystem
+* **Developer Tools** : Building the technical bridge between VRChat's API and the web to create better group management and discovery experiences
 
 </div>
 
 ### <div align="center">What we’re building</div>
 <div align="center">
 
-* **Group Management Tools** – Simplifying how communities organize and showcase their members.
-* **Custom API Integrations** – Leveraging JavaScript and web technologies to bring VRChat data to the community in useful ways.
-* **World & Instance Archives** – A curated look at the technical and artistic milestones in world building.
+* **Group Management Tools** : Simplifying how communities organize and showcase their members
+* **Custom API Integrations** : Leveraging JavaScript and web technologies to bring VRChat data to the community in useful ways
 
 </div>
 
@@ -47,9 +44,6 @@ VRChat is more than just a game—it's a vast digital frontier of shifting cultu
 <div align="center">
 
 **[Official Website](https://vrchatlegends.com)** | **[Discord Community](https://vrchatlegends.com/)** | **[Patreon Support](https://vrchatlegends.com/)**
-
-**Featured Legends:**
-[Elliot-VR](https://vrchatlegends.com/) • [NovedPlayer](https://vrchatlegends.com/) • [MikeLightCycle](https://vrchatlegends.com/)
 
 </div>
 
