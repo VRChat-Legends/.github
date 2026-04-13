@@ -14,6 +14,7 @@
 
 > A **community driven resource** documenting the lore, players, groups, worlds, and events of VRChat
 > Dedicated to **celebrating the creativity and stories** within the VRC community
+> Inspired by VRChat. Not affiliated with VRChat Inc.
 
 </div>
 
