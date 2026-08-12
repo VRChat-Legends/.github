@@ -22,17 +22,13 @@ Inspired by VRChat. Not affiliated with VRChat Inc.
 
 ---
 
-## <div align="center">The Living Archive</div>
+## <div align="center">What VRChat Legends Is</div>
 
 <div align="center">
 
-VRChat is more than a game. It's a digital frontier of shifting cultures and growing history. We document the people and places that define this space so their stories aren't lost to time.
+VRChat is more than a game. It's a digital frontier of shifting cultures and growing history. We built [vrchatlegends.com](https://vrchatlegends.com) to document the players and groups who define this space, so their stories aren't lost to time.
 
-**Lore and History** — From the earliest world builders to the rise of major community events, we track the evolution of the platform.
-
-**Player and Group Profiles** — Highlighting the legends, creators, and groups that form the backbone of the social ecosystem.
-
-**Developer Tools** — Building the technical bridge between the VRChat API and the web to power better group management and discovery.
+Players can create a Community Legends profile, verified through Discord and VRChat, with their own bio, gallery, banner, and social links. We keep a directory of community groups and worlds, run an events calendar, and partner with groups across the platform for storytelling and community projects.
 
 </div>
 
@@ -42,11 +38,11 @@ VRChat is more than a game. It's a digital frontier of shifting cultures and gro
 
 <div align="center">
 
-**Community Legends Platform** — The site behind [vrchatlegends.com](https://vrchatlegends.com), where players and groups get their own profiles, galleries, and social links.
+**Community Legends Platform**: The profile and directory system behind the site, covering players, groups, worlds, and events.
 
-**Group Management Tools** — Simplifying how communities organize, verify, and showcase their members.
+**Group Verification and Management**: Tools that link Discord and VRChat accounts and keep group listings current.
 
-**Custom API Integrations** — Using JavaScript and web tooling to bring VRChat data to the community in useful ways. See our [API Docs](https://vrchatlegends.com/docs) and [Package Repository](https://vrchatlegends.com/vpm).
+**API and Tooling**: JavaScript backend work that pulls VRChat data into the site. See our [API Docs](https://vrchatlegends.com/docs) and [Package Repository](https://vrchatlegends.com/vpm).
 
 </div>
 
